@@ -1,3 +1,5 @@
+package constructorquiz
+
 class TestClass {
     constructor() {
         println("constructor1")
